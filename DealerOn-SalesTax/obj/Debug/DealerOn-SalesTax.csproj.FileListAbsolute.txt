@@ -1,0 +1,10 @@
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\bin\Debug\DealerOn-SalesTax.exe.config
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\bin\Debug\DealerOn-SalesTax.exe
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\bin\Debug\DealerOn-SalesTax.pdb
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\obj\Debug\DealerOn-SalesTax.csprojAssemblyReference.cache
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\obj\Debug\DealerOn-SalesTax.csproj.CoreCompileInputs.cache
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\obj\Debug\DealerOn-SalesTax.exe
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\obj\Debug\DealerOn-SalesTax.pdb
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\obj\Debug\DealerOn-SalesTax.csproj.CopyComplete
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\bin\Debug\DealerOn-SalesTax.Business.dll
+C:\Users\ron\source\repos\DealerOn-SalesTax\DealerOn-SalesTax\bin\Debug\DealerOn-SalesTax.Business.pdb

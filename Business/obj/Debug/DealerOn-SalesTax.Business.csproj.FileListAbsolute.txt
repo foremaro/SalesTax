@@ -1,0 +1,5 @@
+C:\Users\ron\source\repos\DealerOn-SalesTax\Business\obj\Debug\DealerOn-SalesTax.Business.csproj.CoreCompileInputs.cache
+C:\Users\ron\source\repos\DealerOn-SalesTax\Business\bin\Debug\DealerOn-SalesTax.Business.dll
+C:\Users\ron\source\repos\DealerOn-SalesTax\Business\bin\Debug\DealerOn-SalesTax.Business.pdb
+C:\Users\ron\source\repos\DealerOn-SalesTax\Business\obj\Debug\DealerOn-SalesTax.Business.dll
+C:\Users\ron\source\repos\DealerOn-SalesTax\Business\obj\Debug\DealerOn-SalesTax.Business.pdb
